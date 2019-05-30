@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">jobJob</string>
+    <string name="a_faw_hours">מספר שעות</string>
+    <string name="add_alarm">הוספת תזכורת חדשה</string>
+    <string name="add_calendar">הוספת אירוע חדש</string>
+    <string name="add_contact">הוספת איש קשר חדש</string>
+    <string name="alarm_add">תזכורת</string>
+    <string name="alarm_msg">תיאור</string>
+    <string name="alarm_time">בחר שעה</string>
+    <string name="calculate">חשב</string>
+    <string name="calendar_add">לוח שנה</string>
+    <string name="calendar_time_end">שעת סיום</string>
+    <string name="calendar_time_start">שעת התחלה</string>
+    <string name="call">חייג</string>
+    <string name="call_to">חייג ל...</string>
+    <string name="cancel">ביטול</string>
+    <string name="choose_hour">בחר שעה:</string>
+    <string name="choose_hour_end">בחר שעת סיום:</string>
+    <string name="choose_hour_start">בחר שעת התחלה:</string>
+    <string name="contact">איש קשר</string>
+    <string name="content_mail">תוכן</string>
+    <string name="continue_text">המשך</string>
+    <string name="created">© אלכסיי שפיגלמן</string>
+    <string name="daily_pay_calculator">מחשבון שכר יומי</string>
+    <string name="daily_wages">שכר היומי שלך הוא:</string>
+    <string name="enter_description">כתוב כאן</string>
+    <string name="enter_subject">כתוב כאן</string>
+    <string name="error_hour">אתה עובד מעל 12 שעות !!!</string>
+    <string name="error_no_photo">שים לב! לא הוכנס תמונה</string>
+    <string name="error_user_name">הכנס שם</string>
+    <string name="error_web">404 שגיאה !</string>
+    <string name="first_name">שם פרטי</string>
+    <string name="hourly_wage">שכר שעתי</string>
+    <string name="info_tittle">JobJob</string>
+    <string name="insert_number">הכנס מספר</string>
+    <string name="insert_text">הכנס הודעה</string>
+    <string name="last_name">שם משפחה</string>
+    <string name="mail">אי-מייל</string>
+    <string name="massage">הודעה</string>
+    <string name="msg_alarm">הוספת תזכורת</string>
+    <string name="msg_calender">הוסף אירוע חדש ליומן</string>
+    <string name="msg_contact">הוסף איש קשר חדש</string>
+    <string name="user_name"> הכנס את שמך </string>
+    <string name="user_button">המשך</string>
+    <string name="to_mail">אל</string>
+    <string name="text_subject">נושא</string>
+    <string name="text_description">תיאור</string>
+    <string name="start">התחל</string>
+    <string name="send_mail_with">שלח אי-מייל באמצעות</string>
+    <string name="send_mail">שלח אי-מייל</string>
+    <string name="send">שלח</string>
+    <string name="phone_number">טלפון</string>
+    <string name="need_permission">אין לך הרשאה</string>
+    <string name="msg_yes">כן</string>
+    <string name="msg_out">אתה בטוח שאתה רוצה לעזוב?</string>
+    <string name="msg_no">לא</string>
+    <string name="msg_mail">שליחת מייל</string>
+    <string name="msg_error_wage">בבקשה הכנס שכר שעתי</string>
+    <string name="msg_error_to">בבקשה הכנס כתובת אי-מייל</string>
+    <string name="msg_error_sub">בבקשה הכנס נושא</string>
+    <string name="msg_error_phone">בבקשה הכנס מספר טלפון</string>
+    <string name="msg_error_hour">בבקשה הכנס מספר שעות</string>
+    <string name="msg_error_des">בבקשה הכנס תיאור</string>
+    <string name="add_pic">תלחץ על האיקון כדי להוסיף תמונה</string>
+    <string name="msg_calculator">מחשבון לחישוב שכר יומי \n *החישוב כולל שעות נוספות*</string>
+    <string name="info_con">אפליקציה לעובד. \n
+     כאן תוכל לחשב את השכר שלך, להוסיף אירוע ליומן, להוסיף התראה, \n  להוסיף עובד לרשימת אנשי הקשר, לסמס לחבר ועוד.
+     \n המשך יום נעים!</string>
+
+</resources>

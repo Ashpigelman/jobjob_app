@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/wallpaper1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:padding="30dp"
+                android:background="@drawable/layout_scope"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/layoutColor1"
+                android:orientation="vertical"
+                >
+
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/user_image"
+                    android:layout_width="160dp"
+                    android:layout_height="160dp"
+                    app:civ_border_width="1dp"
+                    app:civ_border_color="@color/scopeDownColor"
+                    android:layout_gravity="center"
+                    android:background="@drawable/user1_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/add_pic"
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/scopeDownColor"
+                    android:layout_gravity="center"/>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="40dp"
+                android:background="@drawable/button_effect"
+                android:layout_gravity="center"
+                android:orientation="vertical"
+                android:layout_margin="30dp"
+                android:backgroundTint="@color/layoutColor1">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/user_name"
+                    android:layout_marginTop="10dp"
+                    android:textSize="20sp"
+                    android:layout_gravity="center"/>
+
+                <EditText
+                    android:id="@+id/user_name"
+                    android:layout_width="160dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:background="@drawable/scope_text"
+                    android:layout_gravity="center"
+                    android:padding="5dp" />
+
+                <Button
+                    android:layout_width="120dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/user_button"
+                    android:background="@drawable/button_effect"
+                    android:textColor="@color/whiteColor"
+                    android:elevation="12dp"
+                    android:id="@+id/user_button"/>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

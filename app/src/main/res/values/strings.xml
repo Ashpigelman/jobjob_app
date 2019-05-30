@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">jobJob</string>
+    <string name="created"> © Alexey Shpigelman</string>
+    <string name="user_name">Please enter your name</string>
+    <string name="add_pic">Press icon to take a Photo</string>
+    <string name="user_button">CONTINUE</string>
+    <string name="msg_out">Are you sure you want to leave?</string>
+    <string name="msg_yes">YES</string>
+    <string name="msg_no">NO</string>
+    <string name="calendar_add">Calendar</string>
+    <string name="calendar_time_start">Start time</string>
+    <string name="calendar_time_end">End time</string>
+    <string name="text_subject">Subject</string>
+    <string name="enter_subject">Your subject</string>
+    <string name="text_description">Description</string>
+    <string name="enter_description">Your description</string>
+    <string name="add_calendar">Add new event</string>
+    <string name="alarm_add">Alarm</string>
+    <string name="alarm_time">Select your time</string>
+    <string name="alarm_msg">Massage</string>
+    <string name="add_alarm">Add new Alarm</string>
+    <string name="mail">E-mail</string>
+    <string name="to_mail">To</string>
+    <string name="content_mail">Content</string>
+    <string name="add_contact">Add new contact</string>
+    <string name="send_mail">Send e-mail</string>
+    <string name="send">Send</string>
+    <string name="massage">Massage</string>
+    <string name="insert_text">Insert text</string>
+    <string name="error_user_name">You must write your name</string>
+    <string name="error_no_photo">Pay attention! No image entered</string>
+    <string name="send_mail_with">Send e-mail with</string>
+    <string name="cancel">Cancel</string>
+    <string name="insert_number">Insert Number</string>
+    <string name="need_permission">You don\'t have permission call</string>
+    <string name="choose_hour">Choose hour : </string>
+    <string name="choose_hour_start">Choose hour to start:</string>
+    <string name="choose_hour_end">Choose hour to end:</string>
+    <string name="contact">Contact</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone_number">Phone</string>
+    <string name="call_to">Call to ...</string>
+    <string name="call">Call</string>
+    <string name="a_faw_hours">Number of hours</string>
+    <string name="hourly_wage">Money per hour</string>
+    <string name="calculate">Calculate</string>
+    <string name="daily_wages">Your daily salary is:</string>
+    <string name="daily_pay_calculator">Daily Pay Calculator</string>
+    <string name="error_hour">You work over 12 hours !!!</string>
+    <string name="error_web">Error 404 !</string>
+    <string name="start">Start</string>
+    <string name="continue_text">continue</string>
+    <string name="info_tittle">JobJob</string>
+    <string name="info_con">Application for employee. \n
+     Here you can calculate your salary, add an event to your calendar, \n add alarm alert, add employees to my contact list, text them and more.
+     \n Have a nice day!</string>
+    <string name="msg_alarm">Here you can add reminder </string>
+    <string name="msg_calculator">Here you can calculate your salary \n *include extra hours*</string>
+    <string name="msg_calender">Here you can add new event </string>
+    <string name="msg_contact">Here you can add contact </string>
+    <string name="msg_mail">Here you can send a mail </string>
+    <string name="msg_error_sub">Please enter your subject</string>
+    <string name="msg_error_des">Please enter your description</string>
+    <string name="msg_error_hour">Please enter your number of hours</string>
+    <string name="msg_error_wage">Please enter your money per hour</string>
+    <string name="msg_error_to">Please enter e-mail address</string>
+    <string name="msg_error_phone">Please enter phone number</string>
+
+
+</resources>
