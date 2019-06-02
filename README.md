@@ -5,7 +5,7 @@
 
 <h1>WHAT CAN WE DO IN THIS APP? </h1>
 
-![welcome](https://user-images.githubusercontent.com/43930762/58762316-a184e180-8557-11e9-8b95-39ff55a6ca39.png)
+![welcome](https://user-images.githubusercontent.com/43930762/58762316-a184e180-8557-11e9-8b95-39ff55a6ca39.png){:height="50%" width="50%"}
 
 :moneybag: Calculate your salary <br>
 
