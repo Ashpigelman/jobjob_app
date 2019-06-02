@@ -11,7 +11,7 @@
 :email: Send an e-mail <br>
 :clipboard:	Write a massage <br>
 :woman:	Add a contact <br>
-:video_camera: Watch a video<br>
+:video_camera: YouTube advertisement<br>
 
 <h1>Screenshots</h1><br>
 
