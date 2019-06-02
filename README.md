@@ -4,12 +4,23 @@
 • Experience in UX/UI design.
 
 <h1>WHAT CAN WE DO IN THIS APP? </h1>
+
+![welcome](https://user-images.githubusercontent.com/43930762/58762316-a184e180-8557-11e9-8b95-39ff55a6ca39.png)
+
 :moneybag: Calculate your salary <br>
-:telephone_receiver: Call to academic <br>
+
+:telephone_receiver: Call to friend <br>
+
 :calendar: Create an event in Calendar <br>
+
 :alarm_clock: Make a reminder in alarm Clock <br>
+
 :email: Send an e-mail <br>
+
 :clipboard:	Write a massage <br>
+
 :globe_with_meridians: Enter to the web acadmic <br>
+
 :woman:	Add a contact <br>
-:video_camera: Watch a video
+
+:video_camera: Watch a video<br>
